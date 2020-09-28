@@ -1,0 +1,16 @@
+.light {
+    background-color: white;
+    margin-bottom: 10px;
+}
+
+.header {
+    background-color: #c8161d;
+}
+
+.content {
+    margin: 0 10px 0 10px;
+    border-radius: 2px;
+    background-color: white;
+    padding: 10px;
+}
+
